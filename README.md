@@ -28,9 +28,4 @@ This project simulates the behavior of cashiers while scanning customers' purcha
 - **OpenGL**: Install OpenGL libraries for graphics.
 - **IPC Libraries**: Ensure you have necessary libraries for IPC mechanisms.
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HalaGholeh/Machine-Learning-Project
-   cd Machine-Learning-Project
