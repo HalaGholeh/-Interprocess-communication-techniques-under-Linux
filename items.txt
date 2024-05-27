@@ -1,0 +1,20 @@
+Apples,12.99,40
+Bananas,50.49,25
+Milk,2.50,62
+Bread,1.99,35
+Eggs,1.79,310
+Cheese,3.99,210
+Tomatoes,0.79,300
+Pasta,1.29,270
+Chicken Breast,5.99,255
+Orange Juice,2.99,236
+Cereal,3.49,316
+Coffee,4.99,205
+Yogurt,1.25,196
+Spinach,1.79,246
+Potatoes,0.69,330
+Ground Beef,6.49,220
+Salmon Fillets,9.99,175
+Toothpaste,2.29,481
+Shampoo,4.50,363
+Toilet Paper,3.99,342

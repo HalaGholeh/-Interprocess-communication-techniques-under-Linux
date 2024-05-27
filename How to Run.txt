@@ -1,0 +1,13 @@
+in 'code and file' folder:
+-dkjson: code for graphics 
+-main: code for graphics 
+-p2: the code project in c  "Main Code"
+-runBoth: this is the code that we run 
+-items: txt file for the items "this file has data and read it in the p2 code"
+-userDefined: inpt data for the program
+-shm,shm2,shm3: shared memory used in the code
+
+**How to run the project**
+command:
+-  chmod +x runBoth.sh
+-  ./runBoth.sh

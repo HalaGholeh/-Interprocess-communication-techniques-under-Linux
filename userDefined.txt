@@ -1,0 +1,7 @@
+customersArriveRange 0 1
+shoppingTimeRange 1 4
+cashierScanTimeRange 1 4
+customerWaitingTime 50
+cashierTheshold 3
+customersleavingThreshold 10
+incomeThreshold 500
